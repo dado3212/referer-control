@@ -1,0 +1,10 @@
+{
+  entry = {
+  	bundle = RefererControl;
+  	cell = PSLinkCell;
+  	detail = RefererControlListController;
+  	icon = icon.png;
+  	isController = 1;
+  	label = RefererControl;
+  };
+}

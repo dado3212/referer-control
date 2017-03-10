@@ -1,0 +1,11 @@
+Package: com.hackingdartmouth.referercontrol
+Name: RefererControl
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows you to customize the HTTP referer on a per-site basis.
+Maintainer: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Author: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Section: Tweaks
+Icon: file:///Library/Application Support/RefererControl/icon@2x.png
+Depiction: http://cydia.alexbeals.com/RefererControl
